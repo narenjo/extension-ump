@@ -1,0 +1,9 @@
+{
+	"name": "extension-ump",
+	"url": "https://github.com/narenjo/extension-ump",
+	"license": "MIT",
+	"contributors":["vincent-schirmann"],
+	"tags": ["ads","api","GDPR"],
+	"description": "Google User Messaging Platform extension for Android, for user consent.",
+	"version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<section if="android">
+		<android extension="org.haxe.extension.ump.UserConsentExtension"/>
+		<dependency name="user-messaging-platform" path="dependencies/android/user-messaging-platform" />
+	</section>
+</extension>
